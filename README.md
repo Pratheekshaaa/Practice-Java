@@ -2,15 +2,15 @@
 It covers fundamental concepts, object-oriented programming. 
 --- 
 ## 📚 Topics Covered 
-- OOP Concepts
-    -- encapsulation
-    -- inheritance
-        - is-a and has-a relationships
-    -- polymorphism
-        - method overloading
-        - method overriding
-        - method shadowing
-        - variable shadowing
+- OOP Concepts<br>
+    -- encapsulation<br>
+    -- inheritance<br>
+        - is-a and has-a relationships<br>
+    -- polymorphism<br>
+        - method overloading<br>
+        - method overriding<br>
+        - method shadowing<br>
+        - variable shadowing<br>
     -- abstraction
 -  Exception handling
 - File handling
