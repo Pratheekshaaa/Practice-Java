@@ -5,12 +5,12 @@ It covers fundamental concepts, object-oriented programming.
 - OOP Concepts<br>
     -- encapsulation<br>
     -- inheritance<br>
-       &nbsp; - is-a and has-a relationships<br>
+       &nbsp; &nbsp; - is-a and has-a relationships<br>
     -- polymorphism<br>
-        - method overloading<br>
-        - method overriding<br>
-        - method shadowing<br>
-        - variable shadowing<br>
+         &nbsp; &nbsp; - method overloading<br>
+         &nbsp; &nbsp; - method overriding<br>
+         &nbsp; &nbsp; - method shadowing<br>
+         &nbsp; &nbsp; - variable shadowing<br>
     -- abstraction
 -  Exception handling
 - File handling
