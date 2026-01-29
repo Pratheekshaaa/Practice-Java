@@ -2,9 +2,16 @@
 It covers fundamental concepts, object-oriented programming. 
 --- 
 ## 📚 Topics Covered 
-- Basic Java
--  Arrays and string
--  Object-Oriented Programming (encapsulation, inheritance, polymorphism, abstraction)
+- OOP Concepts
+    -- encapsulation
+    -- inheritance
+        - is-a and has-a relationships
+    -- polymorphism
+        - method overloading
+        - method overriding
+        - method shadowing
+        - variable shadowing
+    -- abstraction
 -  Exception handling
 - File handling
 ---
