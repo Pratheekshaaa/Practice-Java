@@ -1,4 +1,4 @@
-# Practice-Java # Java Practice Programs This repository contains a collection of Java practice programs that I’ve written while learning and strengthening my programming skills. 
+#  Java Practice Programs This repository contains a collection of Java practice programs that I’ve written while learning and strengthening my programming skills. 
 It covers fundamental concepts, object-oriented programming. 
 --- 
 ## 📚 Topics Covered 
