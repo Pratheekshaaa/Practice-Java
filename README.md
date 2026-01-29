@@ -5,7 +5,7 @@ It covers fundamental concepts, object-oriented programming.
 - OOP Concepts<br>
     -- encapsulation<br>
     -- inheritance<br>
-       &nsbp - is-a and has-a relationships<br>
+       &nbsp; - is-a and has-a relationships<br>
     -- polymorphism<br>
         - method overloading<br>
         - method overriding<br>
